@@ -1,0 +1,1 @@
+This project encapsulates HTML coding fundamentals such as boilerplate HTML structure, headers, paragraphs(including bold text and italic text), ordered lists, unordered lists and relative linking between pages. Structurally this project contains directories for photos and HTML pages dedicated to recipes.
