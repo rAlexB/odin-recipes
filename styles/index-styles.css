@@ -1,0 +1,27 @@
+body {
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;    
+}
+
+ul {
+    background-color: aquamarine;
+    height: 100;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+
+
+li {
+    color: aliceblue;
+    font-family: monospace;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+}

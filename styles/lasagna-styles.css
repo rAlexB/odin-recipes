@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.description, .ingredients, .preparations {
+    background-color: beige;
+    padding: 5px 10px 5px 10px;
+}
+
+.description {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    width: 80%;
+}
+
+.specifications {
+    display: table;
+    height: auto;
+    width: 80%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ingredients, .preparations {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.ingredients {
+    width: 50%;
+}
+
+.preparations {
+    width: 50%;
+}
+
+
+
